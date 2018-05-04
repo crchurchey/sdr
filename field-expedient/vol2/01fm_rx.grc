@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?grc format='1' created='3.7.9'?>
+<?grc format='1' created='3.7.11'?>
 <flow_graph>
   <timestamp>Wed May  2 17:52:19 2018</timestamp>
   <block>
@@ -381,7 +381,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(688, 141)</value>
+      <value>(624, 140)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -428,7 +428,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1128, 372)</value>
+      <value>(776, 484)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -471,7 +471,7 @@
     </param>
     <param>
       <key>file</key>
-      <value>/home/chris/sdr/book2/ch3/fm_c96M_s8M.iq</value>
+      <value>C:\Users\churcch1\Downloads\fesdr-examples-vol2\ch3\fm_c96M_s8M.iq</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -530,7 +530,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(904, 404)</value>
+      <value>(608, 484)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -632,7 +632,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(416, 127)</value>
+      <value>(392, 124)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -699,7 +699,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(736, 242)</value>
+      <value>(600, 252)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -774,7 +774,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(384, 359)</value>
+      <value>(352, 244)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -1063,7 +1063,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(704, 383)</value>
+      <value>(768, 276)</value>
     </param>
     <param>
       <key>_rotation</key>
